@@ -74,6 +74,10 @@
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" id="XZv-68-AP6"/>
+                    <connections>
+                        <outlet property="emailLabel" destination="Ima-x5-dr3" id="9Yc-Nb-1K2"/>
+                        <outlet property="phoneLabel" destination="NhL-eK-Ii0" id="0st-Z0-P5c"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="0ao-H8-pIJ" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
